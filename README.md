@@ -4,7 +4,7 @@
 
 
 - 👩‍🎓 Atualmente sou estudante de programação na Resilia Educação
-- 🌱 Estou estudando JavaScript e Banco de Dados
+- 🌱 Estou estudando JavaScript e Node.js
 - 📫 Contate-me no e-mail: cibelemartins24@hotmail.com
 - 😄 Pronomes: ela/dela
 
