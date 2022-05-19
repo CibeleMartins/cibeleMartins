@@ -3,8 +3,8 @@
 
 
 
-- 👩‍🎓 Atualmente sou estudante de programação na Resilia Educação
-- 🌱 Estou estudando JavaScript, React Js e Next Js
+- 👩‍💻 Desenvolvedora Web Full-Stack
+- 🌱 Estou estudando JavaScript, React Js, Next Js 
 - 📫 Contate-me no e-mail: cibelemartins24@hotmail.com
 - 😄 Pronomes: ela/dela
 
