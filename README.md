@@ -4,7 +4,7 @@
 
 
 - 👩‍💻 Desenvolvedora Web Full-Stack
-- 🌱 Estou estudando JavaScript, React Js, Angular
+- 🌱 Estou estudando JavaScript, React Js, Angular, Python, Java
 - 📫 Contate-me no e-mail: cibelemartins24@hotmail.com
 - 😄 Pronomes: ela/dela
 
